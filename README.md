@@ -1,2 +1,4 @@
-# camel-aws-hack
-hacking camel &amp; aws sns integration
+# hack-camel-aws
+hacking apache camel & aws sns integration
+
+powered by java & camel
